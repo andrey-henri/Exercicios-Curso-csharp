@@ -1,0 +1,11 @@
+C:\Users\Administrador\source\repos\RecEspeciais01\RecEspeciais01\bin\Debug\netcoreapp2.1\RecEspeciais01.deps.json
+C:\Users\Administrador\source\repos\RecEspeciais01\RecEspeciais01\bin\Debug\netcoreapp2.1\RecEspeciais01.runtimeconfig.json
+C:\Users\Administrador\source\repos\RecEspeciais01\RecEspeciais01\bin\Debug\netcoreapp2.1\RecEspeciais01.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\RecEspeciais01\RecEspeciais01\bin\Debug\netcoreapp2.1\RecEspeciais01.dll
+C:\Users\Administrador\source\repos\RecEspeciais01\RecEspeciais01\bin\Debug\netcoreapp2.1\RecEspeciais01.pdb
+C:\Users\Administrador\source\repos\RecEspeciais01\RecEspeciais01\obj\Debug\netcoreapp2.1\RecEspeciais01.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\RecEspeciais01\RecEspeciais01\obj\Debug\netcoreapp2.1\RecEspeciais01.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\RecEspeciais01\RecEspeciais01\obj\Debug\netcoreapp2.1\RecEspeciais01.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\RecEspeciais01\RecEspeciais01\obj\Debug\netcoreapp2.1\RecEspeciais01.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\RecEspeciais01\RecEspeciais01\obj\Debug\netcoreapp2.1\RecEspeciais01.dll
+C:\Users\Administrador\source\repos\RecEspeciais01\RecEspeciais01\obj\Debug\netcoreapp2.1\RecEspeciais01.pdb

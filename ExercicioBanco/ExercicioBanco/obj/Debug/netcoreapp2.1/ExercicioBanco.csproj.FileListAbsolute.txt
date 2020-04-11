@@ -1,0 +1,11 @@
+C:\Users\Administrador\source\repos\ExercicioBanco\ExercicioBanco\bin\Debug\netcoreapp2.1\ExercicioBanco.deps.json
+C:\Users\Administrador\source\repos\ExercicioBanco\ExercicioBanco\bin\Debug\netcoreapp2.1\ExercicioBanco.runtimeconfig.json
+C:\Users\Administrador\source\repos\ExercicioBanco\ExercicioBanco\bin\Debug\netcoreapp2.1\ExercicioBanco.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\ExercicioBanco\ExercicioBanco\bin\Debug\netcoreapp2.1\ExercicioBanco.dll
+C:\Users\Administrador\source\repos\ExercicioBanco\ExercicioBanco\bin\Debug\netcoreapp2.1\ExercicioBanco.pdb
+C:\Users\Administrador\source\repos\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp2.1\ExercicioBanco.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp2.1\ExercicioBanco.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp2.1\ExercicioBanco.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp2.1\ExercicioBanco.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp2.1\ExercicioBanco.dll
+C:\Users\Administrador\source\repos\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp2.1\ExercicioBanco.pdb

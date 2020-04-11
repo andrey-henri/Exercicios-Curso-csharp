@@ -1,0 +1,11 @@
+C:\Users\Administrador\source\repos\ExercicioList\ExercicioList\bin\Debug\netcoreapp2.1\ExercicioList.deps.json
+C:\Users\Administrador\source\repos\ExercicioList\ExercicioList\bin\Debug\netcoreapp2.1\ExercicioList.runtimeconfig.json
+C:\Users\Administrador\source\repos\ExercicioList\ExercicioList\bin\Debug\netcoreapp2.1\ExercicioList.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\ExercicioList\ExercicioList\bin\Debug\netcoreapp2.1\ExercicioList.dll
+C:\Users\Administrador\source\repos\ExercicioList\ExercicioList\bin\Debug\netcoreapp2.1\ExercicioList.pdb
+C:\Users\Administrador\source\repos\ExercicioList\ExercicioList\obj\Debug\netcoreapp2.1\ExercicioList.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\ExercicioList\ExercicioList\obj\Debug\netcoreapp2.1\ExercicioList.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\ExercicioList\ExercicioList\obj\Debug\netcoreapp2.1\ExercicioList.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\ExercicioList\ExercicioList\obj\Debug\netcoreapp2.1\ExercicioList.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\ExercicioList\ExercicioList\obj\Debug\netcoreapp2.1\ExercicioList.dll
+C:\Users\Administrador\source\repos\ExercicioList\ExercicioList\obj\Debug\netcoreapp2.1\ExercicioList.pdb

@@ -1,0 +1,11 @@
+C:\Users\Administrador\source\repos\ExercicioConjunto\ExercicioConjunto\bin\Debug\netcoreapp2.1\ExercicioConjunto.deps.json
+C:\Users\Administrador\source\repos\ExercicioConjunto\ExercicioConjunto\bin\Debug\netcoreapp2.1\ExercicioConjunto.runtimeconfig.json
+C:\Users\Administrador\source\repos\ExercicioConjunto\ExercicioConjunto\bin\Debug\netcoreapp2.1\ExercicioConjunto.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\ExercicioConjunto\ExercicioConjunto\bin\Debug\netcoreapp2.1\ExercicioConjunto.dll
+C:\Users\Administrador\source\repos\ExercicioConjunto\ExercicioConjunto\bin\Debug\netcoreapp2.1\ExercicioConjunto.pdb
+C:\Users\Administrador\source\repos\ExercicioConjunto\ExercicioConjunto\obj\Debug\netcoreapp2.1\ExercicioConjunto.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\ExercicioConjunto\ExercicioConjunto\obj\Debug\netcoreapp2.1\ExercicioConjunto.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\ExercicioConjunto\ExercicioConjunto\obj\Debug\netcoreapp2.1\ExercicioConjunto.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\ExercicioConjunto\ExercicioConjunto\obj\Debug\netcoreapp2.1\ExercicioConjunto.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\ExercicioConjunto\ExercicioConjunto\obj\Debug\netcoreapp2.1\ExercicioConjunto.dll
+C:\Users\Administrador\source\repos\ExercicioConjunto\ExercicioConjunto\obj\Debug\netcoreapp2.1\ExercicioConjunto.pdb

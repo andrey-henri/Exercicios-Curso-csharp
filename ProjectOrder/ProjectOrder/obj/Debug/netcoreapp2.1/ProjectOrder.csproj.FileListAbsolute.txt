@@ -1,0 +1,11 @@
+C:\Users\Administrador\source\repos\ProjectOrder\ProjectOrder\bin\Debug\netcoreapp2.1\ProjectOrder.deps.json
+C:\Users\Administrador\source\repos\ProjectOrder\ProjectOrder\bin\Debug\netcoreapp2.1\ProjectOrder.runtimeconfig.json
+C:\Users\Administrador\source\repos\ProjectOrder\ProjectOrder\bin\Debug\netcoreapp2.1\ProjectOrder.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\ProjectOrder\ProjectOrder\bin\Debug\netcoreapp2.1\ProjectOrder.dll
+C:\Users\Administrador\source\repos\ProjectOrder\ProjectOrder\bin\Debug\netcoreapp2.1\ProjectOrder.pdb
+C:\Users\Administrador\source\repos\ProjectOrder\ProjectOrder\obj\Debug\netcoreapp2.1\ProjectOrder.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\ProjectOrder\ProjectOrder\obj\Debug\netcoreapp2.1\ProjectOrder.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\ProjectOrder\ProjectOrder\obj\Debug\netcoreapp2.1\ProjectOrder.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\ProjectOrder\ProjectOrder\obj\Debug\netcoreapp2.1\ProjectOrder.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\ProjectOrder\ProjectOrder\obj\Debug\netcoreapp2.1\ProjectOrder.dll
+C:\Users\Administrador\source\repos\ProjectOrder\ProjectOrder\obj\Debug\netcoreapp2.1\ProjectOrder.pdb

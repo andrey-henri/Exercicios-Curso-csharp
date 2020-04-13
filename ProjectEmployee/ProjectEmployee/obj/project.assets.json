@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Nuvem\\OneDrive - Universidade Anhembi Morumbi\\GitHub\\Work Projets\\Curso de C# Completo\\Exercícios propostos\\Exercicios-Curso-csharp\\ProjectProduct\\ProjectProduct\\ProjectProduct.csproj",
-      "projectName": "ProjectProduct",
-      "projectPath": "D:\\Nuvem\\OneDrive - Universidade Anhembi Morumbi\\GitHub\\Work Projets\\Curso de C# Completo\\Exercícios propostos\\Exercicios-Curso-csharp\\ProjectProduct\\ProjectProduct\\ProjectProduct.csproj",
+      "projectUniqueName": "D:\\Nuvem\\OneDrive - Universidade Anhembi Morumbi\\GitHub\\Work Projets\\Curso de C# Completo\\Exercícios propostos\\Exercicios-Curso-csharp\\ProjectEmployee\\ProjectEmployee\\ProjectEmployee.csproj",
+      "projectName": "ProjectEmployee",
+      "projectPath": "D:\\Nuvem\\OneDrive - Universidade Anhembi Morumbi\\GitHub\\Work Projets\\Curso de C# Completo\\Exercícios propostos\\Exercicios-Curso-csharp\\ProjectEmployee\\ProjectEmployee\\ProjectEmployee.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "D:\\Nuvem\\OneDrive - Universidade Anhembi Morumbi\\GitHub\\Work Projets\\Curso de C# Completo\\Exercícios propostos\\Exercicios-Curso-csharp\\ProjectProduct\\ProjectProduct\\obj\\",
+      "outputPath": "D:\\Nuvem\\OneDrive - Universidade Anhembi Morumbi\\GitHub\\Work Projets\\Curso de C# Completo\\Exercícios propostos\\Exercicios-Curso-csharp\\ProjectEmployee\\ProjectEmployee\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
